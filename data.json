@@ -735,6 +735,20 @@
     "date": "25-05-11",
     "cars": [
       {
+        "carid": "3540",
+        "manufacturer": "McLaren",
+        "region": "gb",
+        "name": "McLaren F1 '94",
+        "credits": 20000000,
+        "state": "normal",
+        "estimatedays": -2,
+        "maxestimatedays": -2,
+        "new": false,
+        "rewardcar": null,
+        "engineswap": null,
+        "trophycar": null
+      },
+      {
         "carid": "2540",
         "manufacturer": "McLaren",
         "region": "gb",
