@@ -733,34 +733,7 @@
   "legend": {
     "date": "25-05-11",
     "cars": [
-      {
-        "carid": "1540",
-        "manufacturer": "McLaren",
-        "region": "gb",
-        "name": "McLaren F1 '94",
-        "credits": 20000000,
-        "state": "limited",
-        "estimatedays": -2,
-        "maxestimatedays": -2,
-        "new": false,
-        "rewardcar": null,
-        "engineswap": null,
-        "trophycar": null
-      },
-      {
-        "carid": "1975",
-        "manufacturer": "Mazda",
-        "region": "jp",
-        "name": "RX500 '70",
-        "credits": 600000,
-        "state": "normal",
-        "estimatedays": 3,
-        "maxestimatedays": 3,
-        "new": false,
-        "rewardcar": null,
-        "engineswap": null,
-        "trophycar": null
-      },
+     
       {
         "carid": "365",
         "manufacturer": "Alfa Romeo",
