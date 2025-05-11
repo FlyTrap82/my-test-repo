@@ -762,6 +762,20 @@
         "trophycar": null
       },
       {
+        "carid": "3489",
+        "manufacturer": "Maserati",
+        "region": "it",
+        "name": "A6GCS/53 Spyder '54",
+        "credits": 3000000,
+        "state": "soldout",
+        "estimatedays": 0,
+        "maxestimatedays": 0,
+        "new": false,
+        "rewardcar": null,
+        "engineswap": null,
+        "trophycar": null
+      },
+      {
         "carid": "365",
         "manufacturer": "Alfa Romeo",
         "region": "it",
