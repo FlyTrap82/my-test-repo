@@ -735,6 +735,25 @@
     "date": "25-05-11",
     "cars": [
       {
+        "carid": "1233",
+        "manufacturer": "Alfa Romeo",
+        "region": "it",
+        "name": "MiTo '09",
+        "credits": 22000,
+        "state": "normal",
+        "estimatedays": 5,
+        "maxestimatedays": 5,
+        "new": false,
+        "rewardcar": {
+          "type": "menubook",
+          "name": "23",
+          "requirement": null
+        },
+        "engineswap": null,
+        "lotterycar": null,
+        "trophycar": null
+      },
+      {
         "carid": "9540",
         "manufacturer": "McLaren",
         "region": "gb",
